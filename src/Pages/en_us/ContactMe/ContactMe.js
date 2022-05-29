@@ -36,7 +36,7 @@ class ContactMe extends Component {
                 {status === "ERROR" && <p>Ooops! There was an error.</p>}
               </div>
               <div className = "cli__rtp-outside-media">
-                <a href="https://github.com/ericodess" target="_blank" rel="noopener noreferrer" className = "cli__rtp-link"><div className="github"></div></a>
+                <a href="https://github.com/ericodesu" target="_blank" rel="noopener noreferrer" className = "cli__rtp-link"><div className="github"></div></a>
                 <a href="https://www.linkedin.com/in/erick-frederick-c/" target="_blank" rel="noopener noreferrer" className = "cli__rtp-link"><div className="linkedin"></div></a>
                 <a href="https://twitter.com/pepeyem"  target="_blank" rel="noopener noreferrer" className = "cli__rtp-link"><div className="twitter"></div></a>
               </div>
