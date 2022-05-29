@@ -1,11 +1,11 @@
-[![efrderick-cli](https://raw.githubusercontent.com/ericodesu/efrederick-cli/master/.github/images/project-thumbnail.png)](https://ericodess.github.io/efrederick-cli)
+[![efrderick-cli](https://raw.githubusercontent.com/ericodesu/efrederick-cli/master/.github/images/project-thumbnail.png)](https://ericodesu.github.io/efrederick-cli)
 
 # efrederick
 
 ### tl;dr
 
  ```
-git clone https://github.com/ericodess/efrederick-cli.git
+git clone https://github.com/ericodesu/efrederick-cli.git
 cd efrederick-cli/
 npm install
 npm start
