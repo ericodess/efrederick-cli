@@ -53,7 +53,7 @@ function Projects() {
 									key={index}
 									className = "cli__project"
 								>
-									{element.projectName} <a className = "cli__link" href={`https://github.com/ericodess/${element.projectName}`} target="_blank" rel="noopener noreferrer">&lt;repo&gt;</a> <span className="deactivated">&lt;live&gt;</span>
+									{element.projectName} <a className = "cli__link" href={`https://github.com/ericodesu/${element.projectName}`} target="_blank" rel="noopener noreferrer">&lt;repo&gt;</a> <span className="deactivated">&lt;live&gt;</span>
 								</li>
 							);
 						}
