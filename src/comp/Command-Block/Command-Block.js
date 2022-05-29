@@ -45,7 +45,7 @@ class PageCommandBlock extends Component {
         this.setState({ pageOutput : <ContactMe /> });
         break;   
       case '/discord':
-        this.setState({ pageOutput : <div>ericodess#3219</div> });
+        this.setState({ pageOutput : <div>ericodesu#0001</div> });
         break;       
       default:
         this.setState({ pageOutput : <Error issuedCommand = {this.state.userInput}/> });
