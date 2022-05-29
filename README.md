@@ -1,4 +1,4 @@
-[![efrderick-cli](https://raw.githubusercontent.com/ericodess/efrederick-cli/master/.github/images/project-thumbnail.png)](https://ericodess.github.io/efrederick-cli)
+[![efrderick-cli](https://raw.githubusercontent.com/ericodesu/efrederick-cli/master/.github/images/project-thumbnail.png)](https://ericodess.github.io/efrederick-cli)
 
 # efrederick
 
